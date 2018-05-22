@@ -1,0 +1,52 @@
+{
+  "manifest_version": 2,
+  "name": "FS",
+  "version": "1",
+  "icons": {
+    "128": "favicon.ico"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": false
+  },
+  "minimum_chrome_version": "28",
+  "commands": {
+    "Airhorn": {
+      "suggested_key": {
+        "default": "Alt+1",
+        "mac": "Alt+1"
+      },
+      "description": "Airhorn"
+    },
+    "Another_One": {
+      "suggested_key": {
+        "default": "Alt+2",
+        "mac": "Alt+2"
+      },
+      "description": "Another One"
+    },
+    "Burn": {
+      "suggested_key": {
+        "default": "Alt+3",
+        "mac": "Alt+3"
+      },
+      "description": "Burn"
+    },
+    "Fart": {
+      "suggested_key": {
+        "default": "Alt+4",
+        "mac": "Alt+4"
+      },
+      "description": "Fart"
+    },
+    "wethebest": {
+      "description": "We the Best"
+    }
+    
+  }
+}
