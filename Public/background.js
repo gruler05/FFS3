@@ -4,6 +4,7 @@ const burn = new Audio('../audios/oh.mp3');
 const fart = new Audio('../audios/fart2.mp3');
 const weTheBest = new Audio('../audios/wethebest.mp3');
 const makeitso = new Audio('../audios/makeitso.mp3');
+const johnCena = new Audio('../audios/johnCena.mp3');
 
 function playSound(sound) {
     if(sound.currentTime > 0){
@@ -42,5 +43,9 @@ chrome.commands.onCommand.addListener(function(command) {
 
     if(command === 'makeitso'){
         playSound(makeitso);
+    }
+
+    if(command === 'johnCena'){
+        playSound(johnCena);
     }
 });
