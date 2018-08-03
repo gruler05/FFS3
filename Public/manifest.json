@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "FS",
   "version": "1",
   "icons": {
@@ -55,6 +55,9 @@
     },
     "johnCena": {
       "description": "John Cena Time is Now"
+    },
+    "cartmanUpset": {
+      "description": "Cartman is upset"
     }
   }
 }
