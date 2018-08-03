@@ -58,6 +58,9 @@
     },
     "cartmanUpset": {
       "description": "Cartman is upset"
+    },
+    "helloDarkness": {
+      "description": "Hello darkness my old friend"
     }
   }
 }
