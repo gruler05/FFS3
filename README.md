@@ -1,4 +1,8 @@
-
+*NOTE: When you editing manifest file for your sound. Please don't attach a key to it. 
+Chrome only allows max of 4 key bindings but you can change it manually by going in Settings > Extensions > Keyboard shortcut. 
+You can define your shortcut over there.* 
+ 
+ 
 **How to add FFS3 as a Chrome extension:**
 - Step1 :Chrome > More tools > Extensions
 - Step2 :Enable developer mode on the right

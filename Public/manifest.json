@@ -45,10 +45,6 @@
       "description": "Fart"
     },
     "SonicExtraLife": {
-      "suggested_key": {
-        "default": "Alt+5",
-        "mac": "Alt+5"
-      },
       "description": "Let me sing you the song of my people."
     },
     "makeitso": {
@@ -60,6 +56,5 @@
     "johnCena": {
       "description": "John Cena Time is Now"
     }
-
   }
 }
